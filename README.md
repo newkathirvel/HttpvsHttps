@@ -23,5 +23,4 @@ HTTP is the foundation of data communication on the web, but it sends informatio
 HTTPS is essential for secure browsing, protecting sensitive information, and building trust online 🔐.
 
 🚀 Let’s connect on LinkedIn
-LinkedIn: Kathir Vel Kathir Vel https://www.linkedin.com/in/ka-thirvelb/
-[Kathir Vel](https://www.linkedin.com/in/ka-thirvelb/)<br>
+LinkedIn: [Kathir Vel](https://www.linkedin.com/in/ka-thirvelb/)<br>
